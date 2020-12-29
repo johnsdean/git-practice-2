@@ -2,5 +2,5 @@
 A second practice repo for git commands
 
 ## 2nd heading
-text stuff
+text stuff added on remote
 
